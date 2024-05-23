@@ -25,24 +25,29 @@ receitas/
 ├── assets/
 │   ├── css/
 │   │   └── styles.css
+|   |
 │   ├── js/
 │   │   └── scripts.js
-│   ├── img/
-│   │   ├── bg_home.jpeg
-│   │   ├── topo.png
-│   │   ├── revenues/
-│   │   │   ├── bolo-simples.jpg
-│   │   │   ├── pao-de-lo.jpg
-│   │   │   └── torta-de-maca.jpg
+|   |
+│   └── img/
+│       ├── bg_home.jpeg
+│       ├── topo.png
+│       └── revenues/
+│           ├── bolo-simples.jpg
+│           ├── pao-de-lo.jpg
+│           └── torta-de-maca.jpg
+|
 ├── vendor/
 │   └── bootstrap/
 │       └── TODOS ARQUIVOS BAIXADOS: https://getbootstrap.com/docs/5.3/getting-started/download/
+|
 ├── demo/
 │   ├── home.png
 │   ├── login.png
 │   ├── register.png
 │   ├── revenues.png
 │   └── revenue.png
+|
 ├── home.html
 ├── login.html
 ├── register.html
